@@ -63,6 +63,7 @@ main {
 }
 
 .button {
+  border: none;
   width: 90%;
   background-color: rgba(0, 0, 0, 0.6);
   border-radius: 8px;
@@ -71,6 +72,7 @@ main {
   justify-content: space-between;
   padding: 0.7rem 1.4rem;
   margin-inline: auto;
+  cursor: pointer;
 }
 
 .button_white {
@@ -82,7 +84,7 @@ main {
   scale: 1.5;
 }
 
-.button__link {
+.button__text {
   width: 80%;
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
@@ -90,9 +92,10 @@ main {
   color: white;
   font-size: 14px;
   line-height: 1.5;
+  text-align: left;
 }
 
-.button__link_white {
+.button__text_white {
   color: black;
   font-weight: 700;
 }
