@@ -14,14 +14,14 @@ buttons[1].addEventListener("click", () => {
 
 buttons[2].addEventListener("click", () => {
   window.open(
-    "https://www.youtube.com/channel/UCSs371Yd0-FXf_wV90oIxVg?view_as=subscriber",
+    "https://korcrossfit.com.br/2021/01/12/crossfit-e-lesoes-tudo-o-que-voce-precisa-saber/",
     "_blank"
   );
 });
 
 buttons[3].addEventListener("click", () => {
   window.open(
-    "https://korcrossfit.com.br/2021/01/12/crossfit-e-lesoes-tudo-o-que-voce-precisa-saber/",
+    "https://www.youtube.com/channel/UCSs371Yd0-FXf_wV90oIxVg?view_as=subscriber",
     "_blank"
   );
 });
